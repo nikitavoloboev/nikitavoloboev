@@ -31,6 +31,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
   - [my-mac](https://github.com/nikitavoloboev/my-mac)
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
+- [try](https://github.com/nikitavoloboev/try)
 - web
   - [url-shorten](https://github.com/nikitavoloboev/url-shorten) - redirecting urls
 
