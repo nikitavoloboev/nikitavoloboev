@@ -34,8 +34,6 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 - web
   - [url-shorten](https://github.com/nikitavoloboev/url-shorten)
 
-This is WIP as I am figuring how to scale this system better.
-
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
 <details><summary>🐱</summary>
