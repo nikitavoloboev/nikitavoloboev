@@ -7,23 +7,23 @@
 Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
 
 - cli
-  - [dot](https://github.com/nikitavoloboev/dot)
-- [config](https://github.com/nikitavoloboev/config)
+  - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
+- [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings.
 - docs
-  - [knowledge](https://github.com/nikitavoloboev/knowledge)
+  - [knowledge](https://github.com/nikitavoloboev/knowledge) - everything I know
 - extensions
   - [alfred](https://github.com/nikitavoloboev/alfred)
   - [raycast](https://github.com/nikitavoloboev/raycast)
 - orgs
-  - [learn-anything](https://github.com/learn-anything/learn-anything)
-- [new](https://github.com/nikitavoloboev/new)
+  - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
+- [new](https://github.com/nikitavoloboev/new) - new project starters
 - lib
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
     - bun
     - deno
-  - [ui](https://github.com/nikitavoloboev/ui)
+  - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
 - other
   - [.github](https://github.com/nikitavoloboev/.github)
 - personal
@@ -32,7 +32,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [my-mac](https://github.com/nikitavoloboev/my-mac)
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
 - web
-  - [url-shorten](https://github.com/nikitavoloboev/url-shorten)
+  - [url-shorten](https://github.com/nikitavoloboev/url-shorten) - redirecting urls
 
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
