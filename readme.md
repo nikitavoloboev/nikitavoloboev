@@ -41,6 +41,6 @@ If you like my work, please [sponsor it](https://github.com/sponsors/nikitavolob
 <details><summary>🐱</summary>
   <br/>
   <a href="https://nikiv.dev">
-    <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/master/cat.jpg"></img>
+    <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg"></img>
   </a>
 </details>
