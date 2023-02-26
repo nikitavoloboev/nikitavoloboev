@@ -4,25 +4,27 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Repos with 🔑 require you to [be a GitHub sponsor to unlock](https://github.com/sponsors/nikitavoloboev).
 
+- apps
+  - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
+  - 🔑 [zen](https://github.com/nikitavoloboev/zen) - fast todo app
 - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
 - [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings.
 - docs
   - [knowledge](https://github.com/nikitavoloboev/knowledge) - everything I know
+  - 🔑 [course](https://github.com/nikitavoloboev/course) - guided course on everything I know
 - extensions
   - [alfred](https://github.com/nikitavoloboev/alfred)
   - [raycast](https://github.com/nikitavoloboev/raycast)
-- orgs
-  - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
 - [new](https://github.com/nikitavoloboev/new) - new project starters
 - lib
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
-    - bun
-    - deno
+    - [bun](https://github.com/nikitavoloboev/ts/tree/main/bun)
+    - [deno](https://github.com/nikitavoloboev/ts/tree/main/deno)
   - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
 - other
   - [.github](https://github.com/nikitavoloboev/.github)
