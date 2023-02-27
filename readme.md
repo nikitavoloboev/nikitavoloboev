@@ -23,8 +23,6 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
-    - [bun](https://github.com/nikitavoloboev/ts/tree/main/bun)
-    - [deno](https://github.com/nikitavoloboev/ts/tree/main/deno)
   - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
 - other
   - [.github](https://github.com/nikitavoloboev/.github)
