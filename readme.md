@@ -11,7 +11,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [zen](https://github.com/nikitavoloboev/zen) - fast todo app
 - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
-- [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings.
+- [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings
 - docs
   - [knowledge](https://github.com/nikitavoloboev/knowledge) - everything I know
   - 🔑 [course](https://github.com/nikitavoloboev/course) - guided course on everything I know
