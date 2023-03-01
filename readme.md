@@ -4,9 +4,10 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Repos with 🔑 require you to [be a GitHub sponsor to unlock](https://github.com/sponsors/nikitavoloboev).
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Repos with 🔑 require you to [be a GitHub sponsor to unlock](https://github.com/sponsors/nikitavoloboev). Repos with 🍴 are forks I am working on. List is alphabetically sorted.
 
 - apps
+  - 🍴 [inlang](https://github.com/inlang/inlang) - localization infrastructure built on git
   - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
   - [zen](https://github.com/nikitavoloboev/zen) - fast todo app
 - cli
