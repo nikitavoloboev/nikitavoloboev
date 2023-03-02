@@ -38,7 +38,7 @@ If you like my work, please [sponsor it](https://github.com/sponsors/nikitavolob
 <details><summary>🐱 + 🍴</summary>
   <br/>
   <a href="https://nikiv.dev">
-    <img align="left" width="300" height="400" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg">
+    <img align="left" width="400" height="400" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg">
   </a>
   <ul>
     <li><a href="https://github.com/inlang/inlang">inlang</a> - localization infrastructure built on git</li>
