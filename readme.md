@@ -36,6 +36,10 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
 <details><summary>🐱 + 🍴</summary>
+  <br/>
+  <blockquote>
+    <p>Forks I am working on:</p>
+  </blockquote>
   <a href="https://nikiv.dev">
     <img align="left" width="500" height="500" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg">
   </a>
