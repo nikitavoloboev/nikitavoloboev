@@ -4,7 +4,7 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponosor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🔑) and Discord community. List is alphabetically sorted.
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🔑) and Discord community. List is alphabetically sorted.
 
 - apps
   - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
