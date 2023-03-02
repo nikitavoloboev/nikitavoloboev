@@ -36,6 +36,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
 <details><summary>🐱 + 🍴</summary>
+  <br/>
   <blockquote>
     <p><a href="https://github.com/nikitavoloboev?tab=repositories&q=&type=fork&language=&sort=">Forks</a> I worked/working on:</p>
   </blockquote>
