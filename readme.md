@@ -36,12 +36,9 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
 <details><summary>🐱 + 🍴</summary>
-  <br/>
   <a href="https://nikiv.dev">
     <img align="left" width="500" height="500" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg">
   </a>
-  &nbsp;
-  Forks I am working on:
   <ul>
     <li><a href="https://github.com/inlang/inlang">inlang</a> - localization infrastructure built on git</li>
   </ul>
