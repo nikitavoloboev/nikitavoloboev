@@ -14,7 +14,6 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 - [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings
 - docs
   - [knowledge](https://github.com/nikitavoloboev/knowledge) - everything I know
-  - 🔑 [course](https://github.com/nikitavoloboev/course) - guided course on everything I know
 - extensions
   - [alfred](https://github.com/nikitavoloboev/alfred)
   - [raycast](https://github.com/nikitavoloboev/raycast)
