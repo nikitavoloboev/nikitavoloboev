@@ -35,10 +35,10 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 
 If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
 
-<details><summary>🐱 + 🍴</summary>
+<details><summary>🐱</summary>
   <br/>
   <blockquote>
-    <p><a href="https://github.com/nikitavoloboev?tab=repositories&q=&type=fork&language=&sort=">Forks</a> I worked/working on:</p>
+    <p><a href="https://github.com/nikitavoloboev?tab=repositories&q=&type=fork&language=&sort=">Forks</a> I worked or am working on. To be sorted by recent contribution.</p>
   </blockquote>
   <ul>
     <li><a href="https://github.com/inlang/inlang">inlang</a> - localization infrastructure built on git</li>
