@@ -40,6 +40,8 @@ If you like my work, please [sponsor it](https://github.com/sponsors/nikitavolob
   <a href="https://nikiv.dev">
     <img align="left" width="500" height="500" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg">
   </a>
+  &nbsp;
+  Forks I am working on:
   <ul>
     <li><a href="https://github.com/inlang/inlang">inlang</a> - localization infrastructure built on git</li>
   </ul>
