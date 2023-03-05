@@ -8,7 +8,6 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 
 - apps
   - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
-  - 🔑 [zen](https://github.com/nikitavoloboev/zen) - fast todo app
 - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
   - [gitty](https://github.com/nikitavoloboev/gitty) - automate git
