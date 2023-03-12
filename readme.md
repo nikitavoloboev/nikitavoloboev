@@ -25,7 +25,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [ts](https://github.com/nikitavoloboev/ts)
   - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
 - personal
-  - [cv](https://github.com/nikitavoloboev/cv)
+  <!-- - [cv](https://github.com/nikitavoloboev/cv) -->
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
   - [my-mac](https://github.com/nikitavoloboev/my-mac)
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
