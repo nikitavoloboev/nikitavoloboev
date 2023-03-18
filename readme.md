@@ -24,7 +24,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
     - [git](https://github.com/nikitavoloboev/git)
-  - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
+  - [ui](https://github.com/nikitavoloboev/ui)
 - personal
   <!-- - [cv](https://github.com/nikitavoloboev/cv) -->
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
