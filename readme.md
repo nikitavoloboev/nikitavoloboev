@@ -23,6 +23,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
+    - [git](https://github.com/nikitavoloboev/git)
   - [ui](https://github.com/nikitavoloboev/ui) - front end components in solid/react
 - personal
   <!-- - [cv](https://github.com/nikitavoloboev/cv) -->
