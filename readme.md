@@ -8,17 +8,17 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 
 - app
   - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
-- cli
+  <!-- - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
   - [gitty](https://github.com/nikitavoloboev/gitty) - automate git
-  <!-- - 🔑 [pulse](https://github.com/nikitavoloboev/pulse) - scan websites like hn/lobsters for content -->
+  - 🔑 [pulse](https://github.com/nikitavoloboev/pulse) - scan websites like hn/lobsters for content -->
 - [config](https://github.com/nikitavoloboev/config) - fish/karabiner/vscode settings
 - docs
   - [knowledge](https://github.com/nikitavoloboev/knowledge) - everything I know
 - extend
   - [alfred](https://github.com/nikitavoloboev/alfred)
   - [raycast](https://github.com/nikitavoloboev/raycast)
-- [new](https://github.com/nikitavoloboev/new) - new project starters
+  <!-- - [new](https://github.com/nikitavoloboev/new) - new project starters -->
 - lib
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
