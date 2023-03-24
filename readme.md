@@ -21,10 +21,9 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   <!-- - [new](https://github.com/nikitavoloboev/new) - new project starters -->
 - lib
   - [go](https://github.com/nikitavoloboev/go)
-  - [rust](https://github.com/nikitavoloboev/rust)
+  <!-- - [rust](https://github.com/nikitavoloboev/rust) -->
   - [ts](https://github.com/nikitavoloboev/ts)
-    - [git](https://github.com/nikitavoloboev/git)
-  - [ui](https://github.com/nikitavoloboev/ui)
+  <!-- - [ui](https://github.com/nikitavoloboev/ui) -->
 - personal
   <!-- - [cv](https://github.com/nikitavoloboev/cv) -->
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
