@@ -33,7 +33,9 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 - web
   - [url-shorten](https://github.com/nikitavoloboev/url-shorten) - redirecting urls
 
-If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥️
+If you like my work, please [sponsor it](https://github.com/sponsors/nikitavoloboev). ♥
+
+> Currently going through a [very bad time financially 😿](https://wiki.nikiv.dev/looking-back/2023/march)
 
 <details><summary>🐱</summary>
   <br/>
