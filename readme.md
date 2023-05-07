@@ -7,7 +7,7 @@
 Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🔑), files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
 
 - app
-  - [kuskus](https://github.com/nikitavoloboev/kuskus) - fast todo app
+  - [kuskus](https://github.com/kuskusapp/kuskus) - fast todo app
   - [learn-anything](https://github.com/learn-anything/learn-anything) - organize world's knowledge
   <!-- - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
