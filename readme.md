@@ -8,7 +8,7 @@ Below is contents of all my code I share publicly as it exists in [my file syste
 
 - app
   - [kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
-    - [ai](https://github.com/kuskusapp/ai) - HTTP endpoints to do AI tasks with language models
+    - [ai](https://github.com/kuskusapp/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   <!-- - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
