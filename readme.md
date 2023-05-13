@@ -4,7 +4,7 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🔑), files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos, files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
 
 - app
   - [kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
