@@ -1,14 +1,14 @@
-👋 I [learn](https://wiki.nikiv.dev/sharing/everything-I-know) in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://github.com/learn-anything/learn-anything) & [KusKus](https://kuskus.app). [Make things](https://nikiv.dev/projects) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/my-mac-os), [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred/)/[Raycast](https://wiki.nikiv.dev/tools/raycast) & [many more tools](https://wiki.nikiv.dev/sharing/my-workflow).
+👋 I [learn](https://wiki.nikiv.dev/sharing/everything-I-know) in [public](https://wiki.nikiv.dev/). Build [KusKus](https://kuskus.app) & [Learn Anything](https://github.com/learn-anything/learn-anything). [Make things](https://nikiv.dev/projects) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/my-mac-os), [Alfred](https://wiki.nikiv.dev/macOS/apps/alfred/)/[Raycast](https://wiki.nikiv.dev/tools/raycast) & [many more tools](https://wiki.nikiv.dev/sharing/my-workflow).
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [Twitter](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) and appreciate [your support](https://github.com/sponsors/nikitavoloboev). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos, files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🔑), files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
 
 - app
-  - [kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
-    - [ai](https://github.com/kuskusapp/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
+  - [kuskus](https://github.com/kuskusapp/code) (🔑) - Fast fully keyboard driven todo app with GitHub integration and AI features
+    - [ai](https://github.com/kuskusapp/ai) (🔑) - Tasks done by language models exposed as library functions or HTTP endpoints
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   <!-- - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
