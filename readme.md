@@ -15,8 +15,6 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [gitty](https://github.com/nikitavoloboev/gitty) - automate git
   - 🔑 [pulse](https://github.com/nikitavoloboev/pulse) - scan websites like hn/lobsters for content -->
 - [config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
-- docs
-  - [knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - extend
   - [alfred](https://github.com/nikitavoloboev/alfred)
   - [raycast](https://github.com/nikitavoloboev/raycast)
