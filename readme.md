@@ -4,12 +4,11 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code. Becoming a [GitHub sponsor](https://github.com/sponsors/nikitavoloboev) gives access to private repos (🗝), files and [Discord community](https://discord.gg/f8YHjyrX3h) rewards.
+Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
 
 - app
-  - [kuskus](https://github.com/kuskusapp) - Fast fully keyboard driven todo app with GitHub integration and AI features 🗝
-    - [ai](https://github.com/kuskusapp) - Tasks done by language models exposed as library functions or HTTP endpoints 🗝
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+  - [kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
   <!-- - cli
   - [dot](https://github.com/nikitavoloboev/dot) - create new projects/files quickly
   - [gitty](https://github.com/nikitavoloboev/gitty) - automate git
@@ -20,12 +19,12 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   - [raycast](https://github.com/nikitavoloboev/raycast)
   <!-- - [new](https://github.com/nikitavoloboev/new) - new project starters -->
 - lib
+  - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
   - [ts](https://github.com/nikitavoloboev/ts)
   <!-- - [ui](https://github.com/nikitavoloboev/ui) -->
 - personal
-  <!-- - [cv](https://github.com/nikitavoloboev/cv) -->
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
   - [my-mac](https://github.com/nikitavoloboev/my-mac)
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
