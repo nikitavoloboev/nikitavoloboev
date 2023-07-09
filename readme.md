@@ -20,10 +20,11 @@ Below is contents of all my code I share publicly as it exists in [my file syste
   <!-- - [new](https://github.com/nikitavoloboev/new) - new project starters -->
 - lib
   - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
+  - [ts](https://github.com/nikitavoloboev/ts)
   - [go](https://github.com/nikitavoloboev/go)
   - [rust](https://github.com/nikitavoloboev/rust)
-  - [ts](https://github.com/nikitavoloboev/ts)
-  <!-- - [ui](https://github.com/nikitavoloboev/ui) -->
+      <!-- - [swift](https://github.com/nikitavoloboev/swift) -->
+      <!-- - [ui](https://github.com/nikitavoloboev/ui) -->
 - personal
   - [my-ios](https://github.com/nikitavoloboev/my-ios)
   - [my-mac](https://github.com/nikitavoloboev/my-mac)
