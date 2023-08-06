@@ -24,11 +24,13 @@ Below is contents of all code I share publicly as it exists in [my file system](
     - [my-ios](https://github.com/nikitavoloboev/my-ios)
     - [my-mac](https://github.com/nikitavoloboev/my-mac)
     - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
-  - forks
-    - [inlang](https://github.com/inlang/inlang)
   - [try](https://github.com/nikitavoloboev/try)
 
-[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks. Thank you. ♥️
+# ~/forks
+
+- [inlang](https://github.com/inlang/inlang)
+
+[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [personal Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. ♥️
 
 <details><summary>🐱</summary>
   <br/>
