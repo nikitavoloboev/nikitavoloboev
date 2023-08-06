@@ -4,7 +4,7 @@
 
 # ~/src
 
-Below is contents of all my code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
+Below is contents of all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
 
 - app
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
@@ -24,18 +24,13 @@ Below is contents of all my code I share publicly as it exists in [my file syste
     - [my-ios](https://github.com/nikitavoloboev/my-ios)
     - [my-mac](https://github.com/nikitavoloboev/my-mac)
     - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
+  - forks
+    - [inlang](https://github.com/inlang/inlang)
   - [try](https://github.com/nikitavoloboev/try)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks. Thank you. ♥️
 
 <details><summary>🐱</summary>
-  <br/>
-  <blockquote>
-    <p><a href="https://github.com/nikitavoloboev?tab=repositories&q=&type=fork&language=&sort=">Forks</a> I worked or am working on.</p>
-  </blockquote>
-  <ul>
-    <li><a href="https://github.com/inlang/inlang">inlang</a> - localization infrastructure for software and the next git</li>
-  </ul>
   <br/>
   <a href="https://nikiv.dev">
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg"></img>
