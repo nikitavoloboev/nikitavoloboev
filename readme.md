@@ -4,7 +4,7 @@
 
 # ~/src
 
-Below is contents of all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). Each link links to GitHub repo with the code.
+Below is contents of all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system).
 
 - app
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
