@@ -9,21 +9,23 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - app
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
-- [config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
+- [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
 - [rust](https://github.com/nikitavoloboev/rust)
 - [ts](https://github.com/nikitavoloboev/ts)
   - http
     - [url-shorten](https://github.com/nikitavoloboev/url-shorten) - Redirecting URLs
+- [python](https://github.com/nikitavoloboev/python)
+- [swift](https://github.com/nikitavoloboev/swift)
+- [go](https://github.com/nikitavoloboev/go)
+- sites
+  - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
 - other
-  - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
-  - extend
-    - [alfred](https://github.com/nikitavoloboev/alfred)
-    - [raycast](https://github.com/nikitavoloboev/raycast)
-  - [go](https://github.com/nikitavoloboev/go)
+  - [ai](https://github.com/learn-anything/ai)
+  - [alfred](https://github.com/nikitavoloboev/alfred)
+  - [raycast](https://github.com/nikitavoloboev/raycast)
   - personal
     - [my-ios](https://github.com/nikitavoloboev/my-ios)
     - [my-mac](https://github.com/nikitavoloboev/my-mac)
-    - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
   - [try](https://github.com/nikitavoloboev/try)
 
 # ~/forks
