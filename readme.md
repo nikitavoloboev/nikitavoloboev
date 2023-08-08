@@ -10,12 +10,12 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
   - [kuskus.app](https://github.com/kuskusapp/kuskus.app) - Fast fully keyboard driven todo app with GitHub integration and AI features
 - sites
-  - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev)
+  - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
-- [rust](https://github.com/nikitavoloboev/rust)
-- [ts](https://github.com/nikitavoloboev/ts)
-  - http
-    - [url-shorten](https://github.com/nikitavoloboev/url-shorten) - Redirecting URLs
+- [rust](https://github.com/nikitavoloboev/rust) - Rust crates + testing code
+- [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
+  - api
+    - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
 - [python](https://github.com/nikitavoloboev/python)
 - [swift](https://github.com/nikitavoloboev/swift)
 - [go](https://github.com/nikitavoloboev/go)
