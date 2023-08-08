@@ -26,6 +26,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - personal
     - [my-ios](https://github.com/nikitavoloboev/my-ios)
     - [my-mac](https://github.com/nikitavoloboev/my-mac)
+  - [zig](https://github.com/nikitavoloboev/zig)
+  - [ocaml](https://github.com/nikitavoloboev/ocaml)
   - [try](https://github.com/nikitavoloboev/try)
 
 # ~/forks
