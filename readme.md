@@ -12,8 +12,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
-- [rust](https://github.com/nikitavoloboev/rust) - Rust crates + testing code
-- [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
+- [rust](https://github.com/nikitavoloboev/rust)
+- [ts](https://github.com/nikitavoloboev/ts)
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
 - [python](https://github.com/nikitavoloboev/python)
