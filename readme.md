@@ -16,9 +16,9 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ts](https://github.com/nikitavoloboev/ts)
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
+- [go](https://github.com/nikitavoloboev/go)
 - [python](https://github.com/nikitavoloboev/python)
 - [swift](https://github.com/nikitavoloboev/swift)
-- [go](https://github.com/nikitavoloboev/go)
 - other
   - [ai](https://github.com/learn-anything/ai)
   - [alfred](https://github.com/nikitavoloboev/alfred)
