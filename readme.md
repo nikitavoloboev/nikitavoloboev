@@ -19,6 +19,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [go](https://github.com/nikitavoloboev/go)
 - [swift](https://github.com/nikitavoloboev/swift)
 - [python](https://github.com/nikitavoloboev/python)
+- [new](https://github.com/nikitavoloboev/new)
 - other
   - [ai](https://github.com/learn-anything/ai)
   - [alfred](https://github.com/nikitavoloboev/alfred)
