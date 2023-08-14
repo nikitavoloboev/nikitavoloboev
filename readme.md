@@ -12,25 +12,25 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
-- [rust](https://github.com/nikitavoloboev/rust)
-- [ts](https://github.com/nikitavoloboev/ts)
+- [rust](https://github.com/nikitavoloboev/rust) - Rust crates + testing code
+- [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
-- [go](https://github.com/nikitavoloboev/go)
-- [swift](https://github.com/nikitavoloboev/swift)
-- [python](https://github.com/nikitavoloboev/python)
+- [go](https://github.com/nikitavoloboev/go) - Go libraries + testing code
+- [swift](https://github.com/nikitavoloboev/swift) - Swift libraries + testing code
+- [python](https://github.com/nikitavoloboev/python) - Python libraries + testing code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
 - other
-  - [ai](https://github.com/learn-anything/ai)
-  - [alfred](https://github.com/nikitavoloboev/alfred)
-  - [raycast](https://github.com/nikitavoloboev/raycast)
+  - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
+  - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
+  - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
   - personal
-    - [my-ios](https://github.com/nikitavoloboev/my-ios)
-    - [my-mac](https://github.com/nikitavoloboev/my-mac)
-  - [zig](https://github.com/nikitavoloboev/zig)
-  - [ocaml](https://github.com/nikitavoloboev/ocaml)
-  - [haskell](https://github.com/nikitavoloboev/haskell)
-  - [try](https://github.com/nikitavoloboev/try)
+    - [my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
+    - [my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
+  - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code
+  - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code
+  - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code
+  - [try](https://github.com/nikitavoloboev/try) - Random code + testing things
 
 # ~/forks
 
