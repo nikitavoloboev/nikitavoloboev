@@ -30,7 +30,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code
   - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code
   - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code
-  - [try](https://github.com/nikitavoloboev/try) - Random code + testing things
+  - [try](https://github.com/nikitavoloboev/try) - Random code
 
 # ~/forks
 
