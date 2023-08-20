@@ -8,7 +8,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 
 - app
   - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-  - [kuskus.app](https://github.com/kuskusapp/kuskus.app) - Fast fully keyboard driven todo app with GitHub integration and AI features
+  - [kuskus.app](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
