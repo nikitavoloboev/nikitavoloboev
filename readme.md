@@ -13,6 +13,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates + testing code
+  - crates
+    - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable name and value only (stripped from release builds)
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
