@@ -33,7 +33,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code
   - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code
 
-#### ~/[try](https://github.com/nikitavoloboev/try)
+### ~/[try](https://github.com/nikitavoloboev/try)
 
 Includes various code I am trying out/learning + forks of repos:
 
