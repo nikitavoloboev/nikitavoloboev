@@ -18,6 +18,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
+  - packages
+    - [solid-ui](https://github.com/nikitavoloboev/solid-ui) - Component library in Solid
 - [go](https://github.com/nikitavoloboev/go) - Go libraries + testing code
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries + testing code
 - [python](https://github.com/nikitavoloboev/python) - Python libraries + testing code
