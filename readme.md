@@ -11,7 +11,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [kuskus.app](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-- [config](https://github.com/nikitavoloboev/config) - Fish, Nix, Karabiner, VS Code
+- [config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, Cursor
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates + testing code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
