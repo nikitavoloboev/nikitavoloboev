@@ -19,13 +19,12 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
   - packages
-    - [solid-ui](https://github.com/nikitavoloboev/solid-ui) - Component library in Solid
+    - [solid](https://github.com/nikitavoloboev/solid) - Solid UI components + helpers
 - [go](https://github.com/nikitavoloboev/go) - Go libraries + testing code
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries + testing code
 - [python](https://github.com/nikitavoloboev/python) - Python libraries + testing code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
 - other
-  - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
   - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
   - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
   - personal
