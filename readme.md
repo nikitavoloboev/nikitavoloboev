@@ -6,12 +6,12 @@
 
 Below is all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system).
 
+- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - org
   - [learn-anything](https://github.com/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [kuskus](https://github.com/kuskusapp) - Food/drink sharing
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
   - api
     - [url-shortener](https://github.com/nikitavoloboev/url-shortener) - Redirecting URLs
