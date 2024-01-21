@@ -15,7 +15,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [pulse](https://github.com/learn-anything/pulse) - Search engine crawler. Scraping of websites like HN/Reddit/Lobsters/..
     - [solana](https://github.com/learn-anything/solana) - Solana Programs
     - [seed](https://github.com/learn-anything/seed) - Files to seed LA database
-  - [kuskus](https://github.com/kuskusapp) - Food/drink sharing app
+  - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries + testing code
