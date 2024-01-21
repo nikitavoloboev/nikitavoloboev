@@ -33,6 +33,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
 - other
+  <!-- TODO: alfred/raycast are repos I don't need as workflows will live inside respective language and curated part can mentioned in /config repo -->
   - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
   - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
   - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code
