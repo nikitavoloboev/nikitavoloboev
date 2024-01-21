@@ -27,7 +27,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [swift](https://github.com/nikitavgoloboev/swift) - Swift libraries and other code
+- [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
 - [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
   <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
   <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
