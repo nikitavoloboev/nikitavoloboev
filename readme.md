@@ -8,8 +8,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - org
-  - [learn-anything](https://github.com/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-    - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
+  - [learn-anything](https://github.com/learn-anything)
+    - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
     - [todo](https://github.com/learn-anything/todo) - Fast fully keyboard driven todo app with GitHub integration and AI features
     - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
     - [pulse](https://github.com/learn-anything/pulse) - Search engine crawler. Scraping of websites like HN/Reddit/Lobsters/..
