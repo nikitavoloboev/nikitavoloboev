@@ -32,11 +32,12 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
   <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
-  <!-- - other -->
-    <!-- TODO: alfred/raycast are repos I don't need as workflows will live inside respective language and curated part can mentioned in /config repo -->
-    <!-- - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
-    - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
-    - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code -->
+  - [app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
+    <!-- - other -->
+      <!-- TODO: alfred/raycast are repos I don't need as workflows will live inside respective language and curated part can mentioned in /config repo -->
+      <!-- - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
+      - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
+      - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code -->
 
 ## [~/try](https://github.com/nikitavoloboev/try)
 
