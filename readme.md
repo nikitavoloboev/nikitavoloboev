@@ -29,8 +29,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries + testing code
 - [python](https://github.com/nikitavoloboev/python) - Python libraries + testing code
-- [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code
-- [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code
+  <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
+  <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
   <!-- - other -->
     <!-- TODO: alfred/raycast are repos I don't need as workflows will live inside respective language and curated part can mentioned in /config repo -->
