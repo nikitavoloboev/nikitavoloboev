@@ -41,7 +41,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 
 ## [~/try](https://github.com/nikitavoloboev/try)
 
-[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [personal Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. ♥️
+[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [personal Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
 <details><summary>🐱</summary>
   <br/>
