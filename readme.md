@@ -11,7 +11,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [learn-anything](https://github.com/learn-anything)
     - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
     - [tasks](https://github.com/learn-anything/tasks) - Tasks done exposed as library functions or HTTP endpoints
-    - [explore](https://github.com/learn-anything/todo) - WIP trying things
+    - [explore](https://github.com/learn-anything/todo) - Trying things
     - [data](https://github.com/learn-anything/data) - Data to seed LA + tasks
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
