@@ -6,6 +6,9 @@
 
 Below is all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system).
 
+<!-- Below is all useful code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system). See [here](https://nikiv.dev/github) for full interactive list. -->
+<!-- TODO: add above once /github is built. interactive list will include repos like [explore], [data] etc. Can also include repos like `private` just show a lock next to it. reflect my file system fully  -->
+
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - org
   - [learn-anything](https://github.com/learn-anything)
