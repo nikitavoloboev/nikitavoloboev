@@ -10,11 +10,9 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - org
   - [learn-anything](https://github.com/learn-anything)
     - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-    - [todo](https://github.com/learn-anything/todo) - Fast fully keyboard driven todo app with GitHub integration and AI features
-    - [ai](https://github.com/learn-anything/ai) - Tasks done by language models exposed as library functions or HTTP endpoints
-    - [pulse](https://github.com/learn-anything/pulse) - Search engine crawler. Scraping of websites like HN/Reddit/Lobsters/..
-    - [solana](https://github.com/learn-anything/solana) - Solana Programs
-    - [seed](https://github.com/learn-anything/seed) - Files to seed LA database
+    - [tasks](https://github.com/learn-anything/tasks) - Tasks done exposed as library functions or HTTP endpoints
+    - [explore](https://github.com/learn-anything/todo) - WIP trying things
+    - [data](https://github.com/learn-anything/data) - Data to seed LA + tasks
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
