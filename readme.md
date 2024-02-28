@@ -29,11 +29,11 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-      <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully  -->
-        <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
-          <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
-          <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
+  <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully  -->
+  <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
+  <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
+  <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
   <!-- TODO: needs update -->
   - [app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
     <!-- - other -->
