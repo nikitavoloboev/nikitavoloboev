@@ -14,8 +14,6 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [learn-anything](https://github.com/learn-anything)
     - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
     - [tasks](https://github.com/learn-anything/tasks) - Tasks done exposed as library functions or HTTP endpoints
-    <!-- - [explore](https://github.com/learn-anything/todo) - Trying things
-    - [data](https://github.com/learn-anything/data) - Data to seed LA + tasks -->
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
@@ -30,17 +28,15 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
-  <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully  -->
-  <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
-  <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
-  <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
-  <!-- TODO: needs update -->
   - [app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
-    <!-- - other -->
-      <!-- TODO: alfred/raycast are repos I don't need as workflows will live inside respective language and curated part can mentioned in /config repo -->
-      <!-- - [alfred](https://github.com/nikitavoloboev/alfred) - Alfred workflows I use
-      - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
-      - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code -->
+    <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
+    <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
+    <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
+    <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
+    <!-- TODO: needs update -->
+    <!-- other -->
+    <!-- - [explore](https://github.com/learn-anything/todo) - Trying things
+    - [data](https://github.com/learn-anything/data) - Data to seed LA + tasks -->
 
 ## [~/try](https://github.com/nikitavoloboev/try)
 
