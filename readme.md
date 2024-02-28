@@ -28,7 +28,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
-  - [app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
+  - [new-app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
     <!-- TODO: fix mess below -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
     <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
