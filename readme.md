@@ -17,17 +17,18 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
+  - [ui] - Solid, React, React Native components
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
-- [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
-- [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+- [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
+- [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
+- [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
   - [new-app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
     <!-- TODO: fix mess below -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
-    <!-- - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code -->
     <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
     <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
     <!-- TODO: needs update -->
