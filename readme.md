@@ -17,7 +17,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-  - [ui](https://github.com/nikitavoloboev/ui) - Solid, React Native components
+  - [ui](https://github.com/nikitavoloboev/ui) - Solid, Expo
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
