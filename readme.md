@@ -19,6 +19,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
   - [ui](https://github.com/nikitavoloboev/ui) - Solid, Expo components/utils
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
+  - packages
+    - [ts-utils](https://github.com/nikitavoloboev/ts-utils) - Utils of all kind
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
