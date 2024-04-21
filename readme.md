@@ -29,11 +29,11 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
+- [zig](https://github.com/nikitavoloboev/zig) - Zig libraries and other code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
   - [new-app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
     <!-- TODO: fix mess below -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
-    <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries + testing code -->
     <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
     <!-- TODO: needs update -->
     <!-- other -->
