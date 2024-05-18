@@ -47,7 +47,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     <!-- - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use -->
     <!-- - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code -->
 
-## [~/try](https://github.com/nikitavoloboev/try) [~/tried](https://github.com/nikitavoloboev/tried) [~/forks](https://github.com/nikitavoloboev/forks) [~/bin](https://github.com/nikitavoloboev/bin)
+## [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [personal Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
