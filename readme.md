@@ -33,7 +33,6 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries and other code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
-  - [new-app](https://github.com/nikitavoloboev/new-app) - New Solid/Grafbase/EdgeDB/Tauri app
 - [slides](https://github.com/nikitavoloboev/slides) - Slides for talks I did
     <!-- TODO: fix mess below -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
