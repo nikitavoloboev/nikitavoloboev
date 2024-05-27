@@ -21,13 +21,13 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
   - packages
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils) - Utils of all kind
+- [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
+- [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
     <!-- - cli
     - [shell-capture](https://github.com/nikitavoloboev/shell-capture) - Run command passed as is but capture stdout and stderr -->
-- [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
-- [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
