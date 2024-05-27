@@ -17,7 +17,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-  - [ui](https://github.com/nikitavoloboev/ui) - Solid, Expo components/utils
+  <!-- - [ui](https://github.com/nikitavoloboev/ui) - React, Expo components -->
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
   - packages
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils) - Utils of all kind
@@ -31,10 +31,10 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [zig](https://github.com/nikitavoloboev/zig) - Zig libraries and other code
 - [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
 - [slides](https://github.com/nikitavoloboev/slides) - Slides for talks I did or am working on
     <!-- TODO: fix mess below -->
+  <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries and other code -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
     <!-- - [ocaml](https://github.com/nikitavoloboev/ocaml) - OCaml libraries + testing code -->
     <!-- TODO: needs update -->
