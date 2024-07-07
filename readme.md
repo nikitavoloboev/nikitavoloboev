@@ -50,7 +50,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
-All useful GitHub activity is streamed to a [Telegram channel](https://t.me/nikivi_log) alongside other events.
+All useful events, including GitHub activity is streamed to a [Telegram channel](https://t.me/nikivi_log).
 
 <details><summary>🐱</summary>
   <br/>
