@@ -1,6 +1,6 @@
 👋 I [learn](https://wiki.nikiv.dev/sharing/everything-I-know) in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://github.com/learn-anything/learn-anything.xyz). [Make things](https://nikiv.dev/projects) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](https://wiki.nikiv.dev/sharing/my-workflow).
 
-💛 I [share things](https://wiki.nikiv.dev/sharing/) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [monthly updates](https://wiki.nikiv.dev/looking-back/) & [stream code](https://www.youtube.com/@nikitavoloboev/streams). [Ask me anything](https://github.com/nikitavoloboev/ama).
+💛 I [share things](https://wiki.nikiv.dev/sharing/) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev), [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) & [Telegram](https://t.me/nikivi_channel). Write [monthly updates](https://wiki.nikiv.dev/looking-back/) & [stream code](https://www.youtube.com/@nikitavoloboev/streams). [Ask me anything](https://github.com/nikitavoloboev/ama). See [stream of events](https://t.me/nikivi_log).
 
 # ~/src
 
