@@ -31,7 +31,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
     <!-- - cli
     - [shell-capture](https://github.com/nikitavoloboev/shell-capture) - Run command passed as is but capture stdout and stderr -->
-- [new](https://github.com/nikitavoloboev/new) - Start new projects, create files quickly
+- [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [slides](https://github.com/nikitavoloboev/slides) - Slides for talks I did or am working on
     <!-- TODO: fix mess below -->
@@ -47,7 +47,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     <!-- - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use -->
     <!-- - [haskell](https://github.com/nikitavoloboev/haskell) - Haskell libraries + testing code -->
 
-## [~/test](https://github.com/nikitavoloboev/test) [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
+## [~/try](https://github.com/nikitavoloboev/try) [~/test](https://github.com/nikitavoloboev/test) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
