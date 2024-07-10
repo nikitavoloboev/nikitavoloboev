@@ -33,7 +33,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [shell-capture](https://github.com/nikitavoloboev/shell-capture) - Run command passed as is but capture stdout and stderr -->
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
-- [talks](https://github.com/nikitavoloboev/talks) - Talks with slides I did or am working
+- [talks](https://github.com/nikitavoloboev/talks) - Talks with slides I did or am working on
     <!-- TODO: fix mess below -->
   <!-- - [zig](https://github.com/nikitavoloboev/zig) - Zig libraries and other code -->
     <!-- TODO: add when there is actual code in there, for now focus is on ts/go/python/rust fully
