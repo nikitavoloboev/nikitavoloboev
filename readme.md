@@ -27,8 +27,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
-- [talks](https://github.com/nikitavoloboev/talks) - Talks with slides
-- [test](https://github.com/nikitavoloboev/test) - Testing code
+  - [talks](https://github.com/nikitavoloboev/talks)
+- [test](https://github.com/nikitavoloboev/test)
   - [next](https://github.com/nikitavoloboev/next)
   - [expo](https://github.com/nikitavoloboev/expo)
 
