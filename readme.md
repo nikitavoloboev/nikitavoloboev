@@ -28,7 +28,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [talks](https://github.com/nikitavoloboev/talks) - Talks with slides I did or am working on
-- [test](https://github.com/nikitavoloboev/test) - Stacks I do tests on
+- [test](https://github.com/nikitavoloboev/test) - Code I do tests on
   - [next](https://github.com/nikitavoloboev/next)
   - [expo](https://github.com/nikitavoloboev/expo)
 
