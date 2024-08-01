@@ -25,6 +25,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+- [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [talks](https://github.com/nikitavoloboev/talks) - Recorded talks
