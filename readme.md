@@ -27,13 +27,14 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
+- [nix](https://github.com/nikitavoloboev/nix) - Derivations, used with Flox
 - [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [talks](https://github.com/nikitavoloboev/talks) - Recorded talks
 - [test](https://github.com/nikitavoloboev/test)
   - [next](https://github.com/nikitavoloboev/next)
   - [expo](https://github.com/nikitavoloboev/expo)
 
-## [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
+## [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/.flox](https://github.com/nikitavoloboev/.flox)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
