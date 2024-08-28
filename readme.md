@@ -14,21 +14,24 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-- [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
+- [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
-- [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
+- [go](https://github.com/nikitavoloboev/go)
   - lib
     - [go-utils](https://github.com/nikitavoloboev/go-utils)
-- [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
+- [python](https://github.com/nikitavoloboev/python)
   - lib
     - [py-utils](https://github.com/nikitavoloboev/py-utils)
-- [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
+- [swift](https://github.com/nikitavoloboev/swift)
+  - lib
+    - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [rust](https://github.com/nikitavoloboev/rust) - Rust crates and other code
-  - crates
-    - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+- [rust](https://github.com/nikitavoloboev/rust)
+  - lib
+    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
+    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [nix](https://github.com/nikitavoloboev/nix) - Derivations, used with Flox
