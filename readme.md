@@ -16,9 +16,13 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
   - lib
-    - [ts-utils](https://github.com/nikitavoloboev/ts-utils) - Utils of all kind
+    - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
 - [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
+  - lib
+    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
+  - lib
+    - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [swift](https://github.com/nikitavoloboev/swift) - Swift libraries and other code
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
