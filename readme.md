@@ -44,6 +44,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ocaml](https://github.com/nikitavoloboev/ocaml)
   - lib
     - [ocaml-utils](https://github.com/nikitavoloboev/ocaml-utils)
+- [c](https://github.com/nikitavoloboev/c)
 - [lean](https://github.com/nikitavoloboev/lean)
 - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
