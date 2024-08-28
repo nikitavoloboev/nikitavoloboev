@@ -15,7 +15,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ts](https://github.com/nikitavoloboev/ts) - TS libraries and other code
-  - packages
+  - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils) - Utils of all kind
 - [go](https://github.com/nikitavoloboev/go) - Go libraries and other code
 - [python](https://github.com/nikitavoloboev/python) - Python libraries and other code
