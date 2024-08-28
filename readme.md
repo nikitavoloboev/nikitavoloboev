@@ -46,11 +46,11 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [ocaml-utils](https://github.com/nikitavoloboev/ocaml-utils)
 - [c](https://github.com/nikitavoloboev/c)
 - [lean](https://github.com/nikitavoloboev/lean)
-- [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
-- [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
-- [nix](https://github.com/nikitavoloboev/nix) - Derivations, used with Flox
-- [wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
-- [talks](https://github.com/nikitavoloboev/talks) - Recorded talks
+- [raycast](https://github.com/nikitavoloboev/raycast)
+- [new](https://github.com/nikitavoloboev/new)
+- [nix](https://github.com/nikitavoloboev/nix)
+- [wiki](https://github.com/nikitavoloboev/wiki)
+- [talks](https://github.com/nikitavoloboev/talks)
 - [test](https://github.com/nikitavoloboev/test)
   - [next](https://github.com/nikitavoloboev/next)
   - [expo](https://github.com/nikitavoloboev/expo)
