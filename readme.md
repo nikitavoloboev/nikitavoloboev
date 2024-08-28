@@ -32,6 +32,16 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - lib
     - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
     - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+- [mojo](https://github.com/nikitavoloboev/mojo)
+  - lib
+    - [mojo-utils](https://github.com/nikitavoloboev/mojo-utils)
+- [zig](https://github.com/nikitavoloboev/zig)
+  - lib
+    - [zig-utils](https://github.com/nikitavoloboev/zig-utils)
+- [ocaml](https://github.com/nikitavoloboev/ocaml)
+  - lib
+    - [ocaml-utils](https://github.com/nikitavoloboev/ocaml-utils)
+- [lean](https://github.com/nikitavoloboev/lean)
 - [raycast](https://github.com/nikitavoloboev/raycast) - Raycast extensions I use
 - [new](https://github.com/nikitavoloboev/new) - New snippets, files, projects
 - [nix](https://github.com/nikitavoloboev/nix) - Derivations, used with Flox
