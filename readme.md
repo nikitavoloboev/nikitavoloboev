@@ -54,7 +54,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [test](https://github.com/nikitavoloboev/test)
   - [next](https://github.com/nikitavoloboev/test-next)
   - [expo](https://github.com/nikitavoloboev/test-expo)
-  - [telegram](https://github.com/nikitavoloboev/text-telegram)
+  - [telegram](https://github.com/nikitavoloboev/test-telegram)
 
 ## [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/.flox](https://github.com/nikitavoloboev/.flox)
 
