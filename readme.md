@@ -11,8 +11,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - org
-  - [learn-anything](https://github.com/learn-anything)
-    - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+  - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ts](https://github.com/nikitavoloboev/ts)
