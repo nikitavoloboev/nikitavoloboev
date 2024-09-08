@@ -13,28 +13,26 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - org
   - [learn-anything](https://github.com/learn-anything)
     - [learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-    - [tasks](https://github.com/learn-anything/tasks) - Tasks as HTTP endpoints
-  - [kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - sites
   - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
-- [rust](https://github.com/nikitavoloboev/rust)
-  - lib
-    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
-    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [python](https://github.com/nikitavoloboev/python)
-  - lib
-    - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [go](https://github.com/nikitavoloboev/go)
   - lib
     - [go-utils](https://github.com/nikitavoloboev/go-utils)
+- [python](https://github.com/nikitavoloboev/python)
+  - lib
+    - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [swift](https://github.com/nikitavoloboev/swift)
   - lib
     - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
+- [rust](https://github.com/nikitavoloboev/rust)
+  - lib
+    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
+    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [mojo](https://github.com/nikitavoloboev/mojo)
   - lib
     - [mojo-utils](https://github.com/nikitavoloboev/mojo-utils)
