@@ -20,7 +20,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [go](https://github.com/nikitavoloboev/go)
   - lib
     - [go-utils](https://github.com/nikitavoloboev/go-utils)
-- [python](https://github.com/nikitavoloboev/python)
+- [py](https://github.com/nikitavoloboev/py)
   - lib
     - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [swift](https://github.com/nikitavoloboev/swift)
