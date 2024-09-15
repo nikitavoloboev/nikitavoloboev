@@ -46,14 +46,12 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [raycast](https://github.com/nikitavoloboev/raycast)
 - [new](https://github.com/nikitavoloboev/new)
 - [nix](https://github.com/nikitavoloboev/nix)
-- [wiki](https://github.com/nikitavoloboev/wiki)
-- [talks](https://github.com/nikitavoloboev/talks)
 - [test](https://github.com/nikitavoloboev/test)
   - [next](https://github.com/nikitavoloboev/next)
   - [expo](https://github.com/nikitavoloboev/expo)
   - [telegram](https://github.com/nikitavoloboev/telegram)
 
-## [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/.flox](https://github.com/nikitavoloboev/.flox)
+## [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/past](https://github.com/nikitavoloboev/past) [~/.flox](https://github.com/nikitavoloboev/.flox) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
