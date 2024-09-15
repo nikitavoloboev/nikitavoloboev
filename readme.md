@@ -51,7 +51,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [expo](https://github.com/nikitavoloboev/expo)
   - [telegram](https://github.com/nikitavoloboev/telegram)
 
-## [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/past](https://github.com/nikitavoloboev/past) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs)
+## [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
