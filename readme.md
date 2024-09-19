@@ -46,8 +46,9 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new)
 - [nix](https://github.com/nikitavoloboev/nix)
 - [test](https://github.com/nikitavoloboev/test)
-  - [next](https://github.com/nikitavoloboev/next)
+  - [react](https://github.com/nikitavoloboev/react)
   - [expo](https://github.com/nikitavoloboev/expo)
+  - [next](https://github.com/nikitavoloboev/next)
   - [telegram](https://github.com/nikitavoloboev/telegram)
 
 ## [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/clones](https://github.com/nikitavoloboev/clones) [~/forks](https://github.com/nikitavoloboev/forks) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
