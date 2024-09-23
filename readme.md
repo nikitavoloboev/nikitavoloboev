@@ -16,9 +16,10 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
-- [go](https://github.com/nikitavoloboev/go)
+- [rust](https://github.com/nikitavoloboev/rust)
   - lib
-    - [go-utils](https://github.com/nikitavoloboev/go-utils)
+    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
+    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [py](https://github.com/nikitavoloboev/py)
   - lib
     - [py-utils](https://github.com/nikitavoloboev/py-utils)
@@ -27,10 +28,9 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [rust](https://github.com/nikitavoloboev/rust)
+- [go](https://github.com/nikitavoloboev/go)
   - lib
-    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
-    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [mojo](https://github.com/nikitavoloboev/mojo)
   - lib
     - [mojo-utils](https://github.com/nikitavoloboev/mojo-utils)
