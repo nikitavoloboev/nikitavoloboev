@@ -23,14 +23,14 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [py](https://github.com/nikitavoloboev/py)
   - lib
     - [py-utils](https://github.com/nikitavoloboev/py-utils)
+- [go](https://github.com/nikitavoloboev/go)
+  - lib
+    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [swift](https://github.com/nikitavoloboev/swift)
   - lib
     - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
   - safari-extensions
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [go](https://github.com/nikitavoloboev/go)
-  - lib
-    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [mojo](https://github.com/nikitavoloboev/mojo)
   - lib
     - [mojo-utils](https://github.com/nikitavoloboev/mojo-utils)
