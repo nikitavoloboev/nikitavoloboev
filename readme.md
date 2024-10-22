@@ -16,16 +16,16 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
+- [go](https://github.com/nikitavoloboev/go)
+  - lib
+    - [go-utils](https://github.com/nikitavoloboev/go-utils)
+- [py](https://github.com/nikitavoloboev/py)
+  - lib
+    - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [rs](https://github.com/nikitavoloboev/rs)
   - lib
     - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
     - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [py](https://github.com/nikitavoloboev/py)
-  - lib
-    - [py-utils](https://github.com/nikitavoloboev/py-utils)
-- [go](https://github.com/nikitavoloboev/go)
-  - lib
-    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [swift](https://github.com/nikitavoloboev/swift)
   - lib
     - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
