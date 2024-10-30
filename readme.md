@@ -45,7 +45,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [nix](https://github.com/nikitavoloboev/nix)
 - [new](https://github.com/nikitavoloboev/new)
   - [web](https://github.com/nikitavoloboev/new-web)
-  - [telegram-app](https://github.com/nikitavoloboev/new-telegram-app)
+  - [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app)
 - [test](https://github.com/nikitavoloboev/test)
   - [react](https://github.com/nikitavoloboev/react)
   - [expo](https://github.com/nikitavoloboev/expo)
