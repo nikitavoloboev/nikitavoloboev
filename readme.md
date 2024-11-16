@@ -46,8 +46,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new)
   - [web](https://github.com/nikitavoloboev/new-web)
   - [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app)
-- [test](https://github.com/nikitavoloboev/test)
-  - [react](https://github.com/nikitavoloboev/react)
+- test
+  - [tanstack-start](https://github.com/nikitavoloboev/tanstack-start)
   - [expo](https://github.com/nikitavoloboev/expo)
   - [next](https://github.com/nikitavoloboev/next)
   - [telegram](https://github.com/nikitavoloboev/telegram)
