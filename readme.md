@@ -15,42 +15,18 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
-  - lib
-    - [py-utils](https://github.com/nikitavoloboev/py-utils)
 - [rust](https://github.com/nikitavoloboev/rust)
   - lib
-    - [rust-utils](https://github.com/nikitavoloboev/rust-utils)
-    - [log-macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+    - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift)
-  - lib
-    - [swift-utils](https://github.com/nikitavoloboev/swift-utils)
-  - safari-extensions
+  - safari
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [mojo](https://github.com/nikitavoloboev/mojo)
-  - lib
-    - [mojo-utils](https://github.com/nikitavoloboev/mojo-utils)
-- [zig](https://github.com/nikitavoloboev/zig)
-  - lib
-    - [zig-utils](https://github.com/nikitavoloboev/zig-utils)
-- [ocaml](https://github.com/nikitavoloboev/ocaml)
-  - lib
-    - [ocaml-utils](https://github.com/nikitavoloboev/ocaml-utils)
-- [c](https://github.com/nikitavoloboev/c)
-- [lean](https://github.com/nikitavoloboev/lean)
-- [nix](https://github.com/nikitavoloboev/nix)
 - [new](https://github.com/nikitavoloboev/new)
   - [web](https://github.com/nikitavoloboev/new-web)
-  - [telegram-mini-app](https://github.com/nikitavoloboev/new-telegram-mini-app)
 - test
   - [tanstack-start](https://github.com/nikitavoloboev/tanstack-start)
-  - [expo](https://github.com/nikitavoloboev/expo)
-  - [next](https://github.com/nikitavoloboev/next)
-  - [telegram](https://github.com/nikitavoloboev/telegram)
-  - [raycast](https://github.com/nikitavoloboev/raycast)
-  - [solana](https://github.com/nikitavoloboev/solana)
-  - [ton](https://github.com/nikitavoloboev/ton)
 
-## [~/try](https://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
+## [~/try](ttps://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
