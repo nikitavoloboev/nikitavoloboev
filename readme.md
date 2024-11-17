@@ -1,6 +1,3 @@
-<!-- TODO: add [3d] to entries for time before last commit of repo, automate daily snapshot -->
-<!-- TODO: do it as part of website, richer -->
-
 👋 I [learn](https://wiki.nikiv.dev/sharing/everything-I-know) in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://github.com/learn-anything/learn-anything.xyz). [Make things](https://23-personal.nikiv.dev/projects) that [bring me joy](https://23-personal.nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](https://wiki.nikiv.dev/sharing/my-workflow).
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://wiki.nikiv.dev/looking-back/) & [stream code](https://www.youtube.com/@nikitavoloboev/streams). [Ask me anything](https://github.com/nikitavoloboev/ama).
@@ -17,8 +14,6 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
 - [go](https://github.com/nikitavoloboev/go)
-  - lib
-    - [go-utils](https://github.com/nikitavoloboev/go-utils)
 - [py](https://github.com/nikitavoloboev/py)
   - lib
     - [py-utils](https://github.com/nikitavoloboev/py-utils)
@@ -67,3 +62,6 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg"></img>
   </a>
 </details>
+
+<!-- TODO: add [3d] to entries for time before last commit of repo, automate daily snapshot -->
+<!-- TODO: do it as part of website, richer -->
