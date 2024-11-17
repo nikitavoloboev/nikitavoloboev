@@ -24,7 +24,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new)
   - [web](https://github.com/nikitavoloboev/new-web)
 - test
-  - [tanstack-start](https://github.com/nikitavoloboev/tanstack-start)
+  - [react](https://github.com/nikitavoloboev/react)
 
 ## [~/try](https://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
 
