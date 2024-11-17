@@ -26,7 +26,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - test
   - [tanstack-start](https://github.com/nikitavoloboev/tanstack-start)
 
-## [~/try](ttps://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
+## [~/try](https://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
