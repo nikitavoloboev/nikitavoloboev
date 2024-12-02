@@ -23,6 +23,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 - [new](https://github.com/nikitavoloboev/new)
   - [web](https://github.com/nikitavoloboev/new-web)
+  - [ts](https://github.com/nikitavoloboev/new-ts)
 - test
   - [react](https://github.com/nikitavoloboev/react-test)
 
