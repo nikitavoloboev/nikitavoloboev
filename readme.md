@@ -28,8 +28,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [web](https://github.com/nikitavoloboev/new-web)
   - [web-clerk-jazz](https://github.com/nikitavoloboev/new-web-clerk-jazz)
   - [web-clerk-ronin](https://github.com/nikitavoloboev/new-web-clerk-ronin)
-- test
-  - [react](https://github.com/nikitavoloboev/react-test)
+- [test](https://github.com/nikitavoloboev?tab=repositories&q=-test)
 
 ## [~/try](https://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/data](https://github.com/nikitavoloboev/data)
 
