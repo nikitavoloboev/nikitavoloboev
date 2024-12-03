@@ -26,6 +26,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new)
   - [ts](https://github.com/nikitavoloboev/new-ts)
   - [web](https://github.com/nikitavoloboev/new-web)
+  - [web-clerk-jazz](https://github.com/nikitavoloboev/new-web-clerk-jazz)
   - [web-clerk-ronin](https://github.com/nikitavoloboev/new-web-clerk-ronin)
 - test
   - [react](https://github.com/nikitavoloboev/react-test)
