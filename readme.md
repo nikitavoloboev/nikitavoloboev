@@ -26,8 +26,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [new](https://github.com/nikitavoloboev/new)
   - [ts](https://github.com/nikitavoloboev/new-ts)
   - [web](https://github.com/nikitavoloboev/new-web)
-  - [web-clerk-jazz](https://github.com/nikitavoloboev/new-web-clerk-jazz)
-  - [web-clerk-ronin](https://github.com/nikitavoloboev/new-web-clerk-ronin)
+  - [web-auth](https://github.com/nikitavoloboev/new-web-auth)
 
 ## [~/try](https://github.com/nikitavoloboev/try) [~/test](https://github.com/nikitavoloboev?tab=repositories&q=-test) [~/data](https://github.com/nikitavoloboev/data) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
 
