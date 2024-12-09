@@ -2,7 +2,7 @@
 
 💛 I [share things](https://wiki.nikiv.dev/sharing/) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://wiki.nikiv.dev/looking-back/) & [stream code](https://www.youtube.com/@nikitavoloboev/streams). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
-# ~/src
+## ~/src
 
 Below is all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system).
 
@@ -24,7 +24,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - safari
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 
-## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/data](https://github.com/nikitavoloboev/data) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
+### [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/data](https://github.com/nikitavoloboev/data) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
