@@ -23,12 +23,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [swift](https://github.com/nikitavoloboev/swift)
   - safari
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
-- [new](https://github.com/nikitavoloboev/new)
-  - [ts](https://github.com/nikitavoloboev/new-ts)
-  - [web](https://github.com/nikitavoloboev/new-web)
-  - [web-auth](https://github.com/nikitavoloboev/new-web-auth)
 
-## [~/try](https://github.com/nikitavoloboev/try) [~/test](https://github.com/nikitavoloboev?tab=repositories&q=-test) [~/data](https://github.com/nikitavoloboev/data) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
+## [~/new](https://github.com/nikitavoloboev/new) [~/try](https://github.com/nikitavoloboev/try) [~/test](https://github.com/nikitavoloboev?tab=repositories&q=-test) [~/data](https://github.com/nikitavoloboev/data) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
