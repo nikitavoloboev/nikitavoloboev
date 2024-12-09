@@ -24,7 +24,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - safari
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 
-## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev?tab=repositories&q=-test) [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past)
+## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/data](https://github.com/nikitavoloboev/data) [~/bugs](https://github.com/nikitavoloboev/bugs) [~/past](https://github.com/nikitavoloboev/past) [~/media](https://github.com/nikitavoloboev/media) [~/try](https://github.com/nikitavoloboev/try)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
