@@ -13,6 +13,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [base](https://github.com/nikitavoloboev/base) - All kinds of tools
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
+- [ui](https://github.com/nikitavoloboev/ui) - React components
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
@@ -24,6 +25,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [swift](https://github.com/nikitavoloboev/swift)
   - safari
     - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
+- [alfred](https://github.com/nikitavoloboev/alfred)
+- [raycast](https://github.com/nikitavoloboev/raycast)
 
 ## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/docs](https://github.com/nikitavoloboev/docs) [~/data](https://github.com/nikitavoloboev/data) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
 
