@@ -24,10 +24,10 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - lib
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift)
-  - safari
-    - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 - [alfred](https://github.com/nikitavoloboev/alfred)
 - [raycast](https://github.com/nikitavoloboev/raycast)
+- extensions
+  - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times
 
 ## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/docs](https://github.com/nikitavoloboev/docs) [~/data](https://github.com/nikitavoloboev/data) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
 
