@@ -10,7 +10,7 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Sell digital products, services
   - [notlost](https://github.com/NotLostNetwork/notlost) - Find your contacts
-  <!-- - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid -->
+  - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
   - [base](https://github.com/nikitavoloboev/base) - All kinds of tools
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
@@ -26,8 +26,8 @@ Below is all code I share publicly as it exists in [my file system](https://wiki
 - [swift](https://github.com/nikitavoloboev/swift)
 - [alfred](https://github.com/nikitavoloboev/alfred)
 - [raycast](https://github.com/nikitavoloboev/raycast)
-<!-- - extensions
-  - [focus-safari-extension](https://github.com/nikitavoloboev/focus-safari-extension) - Block distracting websites during focus times -->
+- browser
+  - [base-safari](https://github.com/nikitavoloboev/base-safari) - Block distracting websites during focus times
 
 ## [~/new](https://github.com/nikitavoloboev/new) [~/test](https://github.com/nikitavoloboev/test) [~/docs](https://github.com/nikitavoloboev/docs) [~/data](https://github.com/nikitavoloboev/data) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
 
