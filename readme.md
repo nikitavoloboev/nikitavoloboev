@@ -1,10 +1,10 @@
-👋 I [learn](https://wiki.nikiv.dev/sharing/everything-I-know) in [public](https://wiki.nikiv.dev/). Build [Learn Anything](https://github.com/learn-anything/learn-anything.xyz). [Make things](https://23-personal.nikiv.dev/projects) that [bring me joy](https://23-personal.nikiv.dev/likes). Love [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](https://wiki.nikiv.dev/sharing/my-workflow).
+👋 I [learn](https://docs.nikiv.dev/learn) in [public](https://docs.nikiv.dev). Build [Learn Anything](https://github.com/learn-anything/learn-anything). [Make things](https://docs.nikiv.dev/focus) that [bring me joy](https://docs.nikiv.dev/likes). Love [Karabiner](http://docs.nikiv.dev/karabiner), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](http://docs.nikiv.dev/workflow).
 
-💛 I [share things](https://wiki.nikiv.dev/sharing/) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://wiki.nikiv.dev/looking-back/) & [stream code](https://www.youtube.com/@nikitavoloboev/streams). [Ask me anything](https://github.com/nikitavoloboev/ama).
+💛 I [share things](https://docs.nikiv.dev/sharing) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://docs.nikiv.dev/looking-back) & [stream code](https://docs.nikiv.dev/stream). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
 ## ~/src
 
-Below is all code I share publicly as it exists in [my file system](https://wiki.nikiv.dev/unix/my-file-system).
+Below is all code I share publicly as it exists in [my file system](https://docs.nikiv.dev/my-file-system).
 
 - do
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
