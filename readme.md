@@ -12,8 +12,8 @@ Below is all code I share publicly as it exists in [my file system](https://docs
   - [notlost](https://github.com/NotLostNetwork/notlost) - Find your contacts
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
-- [base](https://github.com/nikitavoloboev/base) - All kinds of tools
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
+- [base](https://github.com/nikitavoloboev/base) - All kinds of tools
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
