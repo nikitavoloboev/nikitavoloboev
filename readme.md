@@ -44,3 +44,4 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
 <!-- TODO: add [3d] to entries for time before last commit of repo, automate daily snapshot -->
 <!-- TODO: do it as part of website, richer -->
 <!-- TODO: include private repos too? -->
+<!-- TODO: get all repos that are in bio in good state & useful -->
