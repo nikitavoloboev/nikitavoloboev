@@ -9,11 +9,11 @@ Below is all code I share publicly as it exists in [my file system](https://docs
 - org
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Sell digital products, services
-  - [notlost](https://github.com/NotLostNetwork/notlost) - Find your contacts
-  - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
+  <!-- - [notlost](https://github.com/NotLostNetwork/notlost) - Find your contacts
+  - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid -->
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
-- [base](https://github.com/nikitavoloboev/base) - All kinds of tools
+<!-- - [base](https://github.com/nikitavoloboev/base) - All kinds of tools -->
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
     - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
@@ -43,3 +43,4 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
 
 <!-- TODO: add [3d] to entries for time before last commit of repo, automate daily snapshot -->
 <!-- TODO: do it as part of website, richer -->
+<!-- TODO: include private repos too? -->
