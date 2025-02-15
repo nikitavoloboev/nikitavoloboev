@@ -23,6 +23,7 @@ Below is all code I share publicly as it exists in [my file system](https://docs
   - lib
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift)
+- [zig](https://github.com/nikitavoloboev/zig)
 - [alfred](https://github.com/nikitavoloboev/alfred)
 - [raycast](https://github.com/nikitavoloboev/raycast)
 - browser
