@@ -1,6 +1,6 @@
-👋 I [learn](https://nikiv.dev/learn) in [public](https://nikiv.dev). Make [learn-anything.xyz](https://github.com/learn-anything/learn-anything), [solbond.co](https://github.com/solbond/solbond) & [things](https://nikiv.dev/focus) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](http://nikiv.dev/karabiner), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](http://nikiv.dev/workflow).
+👋 I make [learn-anything.xyz](https://github.com/learn-anything/learn-anything), [solbond.co](https://github.com/solbond/solbond) & [things](https://nikiv.dev/focus) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](http://nikiv.dev/karabiner), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](http://nikiv.dev/workflow).
 
-💛 I [share things](https://nikiv.dev/sharing) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://nikiv.dev/looking-back) & [stream code](https://nikiv.dev/stream). [Ask me anything](https://github.com/nikitavoloboev/ama).
+💛 I [share things](https://nikiv.dev) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://nikiv.dev/looking-back) & [stream code](https://nikiv.dev/stream). [Ask me anything](https://github.com/nikitavoloboev/ama).
 
 ## ~/src
 
