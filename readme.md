@@ -1,6 +1,8 @@
-👋 I [learn in public](https://nikiv.dev). Make [learn-anything.xyz](https://github.com/learn-anything/learn-anything), [solbond.co](https://github.com/solbond/solbond) & [things](https://nikiv.dev/focus) that [bring me joy](https://nikiv.dev/likes). Love [Karabiner](http://nikiv.dev/karabiner), [macOS](https://github.com/nikitavoloboev/config) & [many more tools](http://nikiv.dev/workflow).
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code in public.
 
-💛 I [share things](https://nikiv.dev/sharing) on [X](https://twitter.com/nikitavoloboev), [Instagram](https://www.instagram.com/nikitavoloboev) & [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw). Write [look backs](https://nikiv.dev/looking-back) & [stream code](https://nikiv.dev/stream). [Ask me anything](https://github.com/nikitavoloboev/ama).
+Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [preprompt.app](https://preprompt.app), [gpton.co](https://gpton.co) and [other things](https://nikiv.dev/focus).
+
+I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos/[streams](https://nikiv.dev/stream) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
 ## ~/src
 
