@@ -10,6 +10,7 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Sell digital products, services
   - [preprompt](https://github.com/preprompt/preprompt) - Give AI right context
+  - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
