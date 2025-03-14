@@ -12,6 +12,7 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
   - [kuskus](https://github.com/kuskusapp/kuskus) - Track and share your food, drinks, places
+  - [loraverse](https://github.com/loraverse/loraverse) - Image/video gen, custom LoRAs
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
