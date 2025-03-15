@@ -1,4 +1,4 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code in public. Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [1focus.ai](https://1focus.ai) and [other things](https://nikiv.dev/focus).
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code in public. Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [1focus.ai](https://1focus.ai) and [things](https://nikiv.dev/focus).
 
 💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos)/[streams](https://nikiv.dev/stream) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
