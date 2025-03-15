@@ -10,10 +10,10 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
   - [1focus](https://github.com/1focus/1focus) - Your AI companion
-  - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
+  - [kuskus](https://github.com/kuskusapp/kuskus) - Track and share your food, drinks, places
   - [loraverse](https://github.com/loraverse/loraverse) - Image/video/text gen, custom LoRAs and fine tuning
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
-  - [kuskus](https://github.com/kuskusapp/kuskus) - Track and share your food, drinks, places
+  - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
