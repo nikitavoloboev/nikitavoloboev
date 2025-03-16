@@ -9,8 +9,8 @@ Below is all code I share publicly as it exists in [my file system](https://niki
 - org
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
-  - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
   - [loraverse](https://github.com/loraverse/loraverse) - Image/video/text gen, custom LoRAs and fine tuning
+  - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
   - [kuskus](https://github.com/kuskusapp/kuskus) - Social network for photos, foods and places
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
