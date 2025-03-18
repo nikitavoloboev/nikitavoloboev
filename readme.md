@@ -30,7 +30,7 @@ Below is all code I share publicly as it exists in [my file system](https://niki
 - browser
   - [base-safari](https://github.com/nikitavoloboev/base-safari) - Block distracting websites during focus times
 
-## [~/new](https://github.com/nikitavoloboev/new) [~/games](https://github.com/nikitavoloboev/games) [~/test](https://github.com/nikitavoloboev/test) [~/data](https://github.com/nikitavoloboev/data) [~/try](https://github.com/nikitavoloboev/try) [~/.flox](https://github.com/nikitavoloboev/.flox) [~/media](https://github.com/nikitavoloboev/media) [~/past](https://github.com/nikitavoloboev/past)
+## [new](https://github.com/nikitavoloboev/new) [games](https://github.com/nikitavoloboev/games) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
