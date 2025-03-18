@@ -2,8 +2,6 @@
 
 💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos)/[streams](https://nikiv.dev/stream) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
-## ~/src
-
 Below is all code I share publicly as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
