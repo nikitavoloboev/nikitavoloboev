@@ -7,12 +7,12 @@ Below is all code I share publicly as it exists in [my file system](https://niki
 - org
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
-  - [gen](https://github.com/genxai/gen) - Generate code, images, video..
+  - [gen](https://github.com/genxai/gen) - Generate code, images, video
   - [kuskus](https://github.com/kuskusapp/kuskus) - Social network for photos, foods and places
   - [loraverse](https://github.com/loraverse/loraverse) - Custom LoRAs and fine tuning
   - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
-- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
   - lib
