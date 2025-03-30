@@ -24,10 +24,8 @@ Below is all code I share publicly as it exists in [my file system](https://niki
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift)
 - [zig](https://github.com/nikitavoloboev/zig)
-- [alfred](https://github.com/nikitavoloboev/alfred)
-- [raycast](https://github.com/nikitavoloboev/raycast)
-- browser
-  - [base-safari](https://github.com/nikitavoloboev/base-safari) - Block distracting websites during focus times
+<!-- - [alfred](https://github.com/nikitavoloboev/alfred)
+- [raycast](https://github.com/nikitavoloboev/raycast) -->
 
 ## [new](https://github.com/nikitavoloboev/new) [games](https://github.com/nikitavoloboev/games) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
