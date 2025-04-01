@@ -10,7 +10,6 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [gen](https://github.com/genxai/gen) - Generate code, images, video
   - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
   - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
-  - [loraverse](https://github.com/loraverse/loraverse) - Custom LoRAs and fine tuning
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
