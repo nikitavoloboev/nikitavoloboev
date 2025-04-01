@@ -1,4 +1,4 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code). Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [gen.new](https://gen.new), [1focus.ai](https://1focus.ai) and [more](https://nikiv.dev/focus).
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code). Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [gen.new](https://gen.new), [1focus.ai](https://1focus.ai), [preprompt.app](https://preprompt.app) and [more](https://nikiv.dev/focus).
 
 💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos)/[streams](https://nikiv.dev/stream) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
@@ -8,8 +8,9 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
   - [gen](https://github.com/genxai/gen) - Generate code, images, video
-  - [loraverse](https://github.com/loraverse/loraverse) - Custom LoRAs and fine tuning
+  - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
   - [preprompt](https://github.com/preprompt/preprompt) - Talk to AI with right context
+  - [loraverse](https://github.com/loraverse/loraverse) - Custom LoRAs and fine tuning
   - [gridchess](https://github.com/gridchess/gridchess) - Review chess positions on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
