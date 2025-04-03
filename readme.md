@@ -9,7 +9,6 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
   - [gen](https://github.com/genxai/gen) - Generate code, images, video
   - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
-  - [gitedit](https://github.com/giteditdev/gitedit) - View, search or edit over git data with AI
   - [gridchess](https://github.com/gridchess/gridchess) - Review or play chess on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
