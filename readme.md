@@ -1,6 +1,6 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) using [lovely tools](https://nikiv.dev/workflow). Make [learn-anything.xyz](https://learn-anything.xyz), [solbond.co](https://solbond.co), [gen.new](https://gen.new), [1focus.ai](https://1focus.ai) and [more](https://nikiv.dev/focus).
 
-💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos)/[streams](https://nikiv.dev/stream) on [YouTube](https://www.youtube.com/@nikitavoloboev).
+💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
 Below is all code I share publicly as it exists in [my file system](https://nikiv.dev/my-file-system).
 
