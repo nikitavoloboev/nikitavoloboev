@@ -13,17 +13,13 @@ Below is all code I share publicly as it exists in [my file system](https://niki
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
-  - lib
-    - [ts-utils](https://github.com/nikitavoloboev/ts-utils)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
 - [rust](https://github.com/nikitavoloboev/rust)
-  - lib
+  - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [swift](https://github.com/nikitavoloboev/swift)
 - [zig](https://github.com/nikitavoloboev/zig)
-<!-- - [alfred](https://github.com/nikitavoloboev/alfred)
-- [raycast](https://github.com/nikitavoloboev/raycast) -->
 
 ## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
