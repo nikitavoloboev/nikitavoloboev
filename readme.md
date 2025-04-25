@@ -11,7 +11,7 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
   - [gridchess](https://github.com/gridchess/gridchess) - Review or play chess on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
-- [nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
