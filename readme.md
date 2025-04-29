@@ -10,6 +10,7 @@ Below is all code I share publicly as it exists in [my file system](https://niki
   - [gen](https://github.com/genxai/gen) - Generate code, images, video
   - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
   - [gridchess](https://github.com/gridchess/gridchess) - Review or play chess on a grid
+  - [eventsline](https://github.com/eventsline/eventsline) - More than just a line with events
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [ts](https://github.com/nikitavoloboev/ts)
