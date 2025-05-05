@@ -2,17 +2,17 @@
 
 💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
-Below is all code I share publicly as it exists in [my file system](https://nikiv.dev/my-file-system).
+Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
   - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
   - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
-  - [gen](https://github.com/genxai/gen) - Generate code, images, video
-  - [1focus](https://github.com/1focus-ai/1focus) - Your AI companion
+  - [gen](https://gen.new) - Generate code, images, video
+  - [1focus](https://1focus.ai) - Your AI companion
   - [gridchess](https://github.com/gridchess/gridchess) - Review or play chess on a grid
   - [eventsline](https://github.com/eventsline/eventsline) - More than just a line with events
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
-- [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
