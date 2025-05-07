@@ -10,9 +10,9 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [gen.new](https://gen.new) - Generate code, images, video
   - [1focus.ai](https://1focus.ai) - Your AI companion
   - [garden.co](https://github.com/garden-co) - Making software easy
-  - [myworkflow.co](https://github.com/myworkflow-co/flow) - What do you use?
   - [eventsline.co](https://github.com/eventsline/eventsline) - More than just a line with events
   - [gridchess.com](https://github.com/gridchess/gridchess) - Review or play chess on a grid
+  - [myworkflow.co](https://github.com/myworkflow-co/flow) - What do you use?
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
