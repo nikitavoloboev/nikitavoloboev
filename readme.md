@@ -5,12 +5,14 @@
 Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
-  - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-  - [solbond](https://github.com/solbond/solbond) - Store, share & sell digital things
-  - [gen](https://gen.new) - Generate code, images, video
-  - [1focus](https://1focus.ai) - Your AI companion
-  - [gridchess](https://github.com/gridchess/gridchess) - Review or play chess on a grid
-  - [eventsline](https://github.com/eventsline/eventsline) - More than just a line with events
+  - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+  - [solbond.co](https://github.com/solbond/solbond) - Store, share & sell digital things
+  - [gen.new](https://gen.new) - Generate code, images, video
+  - [1focus.ai](https://1focus.ai) - Your AI companion
+  - [garden.co](https://github.com/garden-co) - Making software easy
+  - [myworkflow.co](https://github.com/myworkflow-co/flow) - What do you use?
+  - [eventsline.co](https://github.com/eventsline/eventsline) - More than just a line with events
+  - [gridchess.com](https://github.com/gridchess/gridchess) - Review or play chess on a grid
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
