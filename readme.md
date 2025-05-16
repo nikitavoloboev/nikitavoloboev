@@ -17,13 +17,16 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [gitedit.dev](https://gitedit) - View, search or edit over git data with AI
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [ui](https://github.com/nikitavoloboev/ui) - React components
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
+- [mojo](https://github.com/nikitavoloboev/mojo)
+- [swift](https://github.com/nikitavoloboev/swift)
+- [moonbit](https://github.com/nikitavoloboev/moonbit)
 - [rust](https://github.com/nikitavoloboev/rust)
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [swift](https://github.com/nikitavoloboev/swift)
 - [zig](https://github.com/nikitavoloboev/zig)
 
 ## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [tools](https://github.com/nikitavoloboev/tools) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
