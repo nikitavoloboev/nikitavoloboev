@@ -6,11 +6,11 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 
 - org
   - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-  - [solbond.co](https://github.com/solbond/solbond) - Store, share & sell digital things
-  - [gen.new](https://gen.new) - Generate code, images, video
+  - [solbond.co](https://github.com/solbond/solbond) - Central hub for orgs and people. Store, share & sell digital things. Manage issues/infra/docs
   - [1focus.ai](https://1focus.ai) - Your AI companion
-  - [kuskus.app](https://kuskus.app) - Social network for posts, photos, foods, places & health tracking
+  - [gen.new](https://gen.new) - Generate code, images, video
   - [garden.co](https://github.com/garden-co) - Making software more magical
+  - [kuskus.app](https://kuskus.app) - Social network for posts, photos, foods, places & health tracking
   - [eventsline.co](https://github.com/eventsline/eventsline) - More than just a line with events
   - [myworkflow.co](https://github.com/myworkflow-co/flow) - What do you use?
   - [gridchess.com](https://github.com/gridchess/gridchess) - Review or play chess on a grid
