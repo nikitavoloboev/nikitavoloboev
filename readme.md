@@ -6,7 +6,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 
 - org
   - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-  - [solbond.co](https://github.com/solbond/solbond) - Central hub for everything. Store, share & sell digital things. Manage issues/infra/docs
+  - [solbond.co](https://github.com/solbond/solbond) - Hub for orgs/people. Manage products/issues/infra/docs.
   - [1focus.ai](https://1focus.ai) - Your AI companion
   - [gen.new](https://gen.new) - Generate code, images, video
   - [garden.co](https://github.com/garden-co) - Making software more magical
