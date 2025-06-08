@@ -14,7 +14,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [myworkflow.co](https://github.com/myworkflow-co/myworkflow) - Track what you use and share it
   - [eventsline.co](https://github.com/eventsline/eventsline) - Make lines with events on it. Use it for anything.
   - [gridchess.com](https://github.com/gridchess/gridchess) - Review chess games with a grid to learn fast
-  - [gitedit.dev](https://gitedit) - View, search or edit over git data with AI
+  - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ui](https://github.com/nikitavoloboev/ui) - React components
