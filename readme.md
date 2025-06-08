@@ -1,19 +1,19 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) using [lovely tools](https://nikiv.dev/workflow). Make [learn-anything.xyz](https://learn-anything.xyz), [1focus.ai](https://1focus.ai), [solbond.co](https://solbond.co), [gen.new](https://gen.new) and [more](https://nikiv.dev/focus).
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) using [lovely tools](https://nikiv.dev/workflow). Make [learn-anything.xyz](https://learn-anything.xyz), [1focus.ai](https://1focus.ai), [solbond.co](https://solbond.co), [kuskus.app](https://kuskus.app), [gen.new](https://gen.new) and [more](https://nikiv.dev/focus).
 
 💛 I share thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
 Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
-  - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-  - [solbond.co](https://github.com/solbond/solbond) - Spaces to manage products/issues/infra/docs
-  - [1focus.ai](https://1focus.ai) - Your AI companion
-  - [gen.new](https://gen.new) - Generate code, images, video
-  - [garden.co](https://github.com/garden-co) - Making software more magical
-  - [kuskus.app](https://kuskus.app) - Social network for posts, photos, foods, places & health tracking
-  - [eventsline.co](https://github.com/eventsline/eventsline) - More than just a line with events
-  - [myworkflow.co](https://github.com/myworkflow-co/flow) - What do you use?
-  - [gridchess.com](https://github.com/gridchess/gridchess) - Review or play chess on a grid
+  - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
+  - [solbond.co](https://github.com/solbond/solbond) - Get paid for sharing digital content
+  - [1focus.ai](https://1focus.ai) - Your AI assistant (ask questions / do tasks). Manage your work (issues/infra/docs).
+  - [gen.new](https://gen.new) - Generate code, images, video. Personalized to you.
+  - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
+  - [garden.co](https://github.com/garden-co) - Making writing software more magical and fun
+  - [myworkflow.co](https://github.com/myworkflow-co/myworkflow) - Track what you use and share it
+  - [eventsline.co](https://github.com/eventsline/eventsline) - Make lines with events on it. Use it for anything.
+  - [gridchess.com](https://github.com/gridchess/gridchess) - Review chess games with a grid to learn fast
   - [gitedit.dev](https://gitedit) - View, search or edit over git data with AI
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
