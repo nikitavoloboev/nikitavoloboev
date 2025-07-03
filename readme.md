@@ -6,9 +6,9 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 
 - org
   - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
-  - [solbond.co](https://github.com/solbond/solbond) - Get paid for sharing content or doing tasks
   - [1focus.ai](https://1focus.ai) - Your AI assistant (ask questions / do tasks). Manage your work (issues/infra/docs).
   - [gen.new](https://gen.new) - Generate code, images, video. Personalized to you.
+  - [solbond.co](https://github.com/solbond/solbond) - Get paid for sharing content or doing tasks
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
   - [garden.co](https://github.com/garden-co) - Making writing software more magical and fun
   - [myworkflow.co](https://github.com/myworkflow-co/myworkflow) - Track what you use and share it
