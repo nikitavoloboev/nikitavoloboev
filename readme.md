@@ -38,3 +38,15 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
 <!-- TODO: do it as part of website, richer -->
 <!-- TODO: include private repos too? -->
 <!-- TODO: get all repos that are in bio in good state & useful -->
+
+<!-- TODO: was in org/ (not active projects yet) -->
+<!--
+    [solbond.co](https://solbond.co) - Store, share & sell digital things.
+  - [gen.new](https://gen.new) - Generate code, images, video. Personalized to you.
+  - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
+  - [garden.co](https://github.com/garden-co) - Making writing software more magical and fun
+  - [myworkflow.co](https://github.com/myworkflow-co/myworkflow) - Track what you use and share it
+  - [eventsline.co](https://github.com/eventsline/eventsline) - Make lines with events on it. Use it for anything.
+  - [gridchess.com](https://github.com/gridchess/gridchess) - Review chess games with a grid to learn fast
+  - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
+-->
