@@ -5,8 +5,8 @@
 Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
-  - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
   - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Ask questions, orchestrate agents, together.
+  - [learn-anything.xyz](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ui](https://github.com/nikitavoloboev/ui) - React components
