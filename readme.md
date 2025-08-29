@@ -6,9 +6,10 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 
 - org
   - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Ask questions, orchestrate agents, together.
-  - [gen.new](https://gen.new) - Start, generate, manage anything. Sell it.
+  - [gen.new](https://gen.new) - Generate & store anything
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
   - [gpton.co](https://gpton.co) - P2P game platform & messenger
+  - [solbond.co](https://solbond.co) - Get paid for digital content. Sell ownership.
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
   - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
   - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
