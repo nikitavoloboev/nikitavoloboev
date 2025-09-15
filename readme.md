@@ -20,13 +20,13 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
-- [zig](https://github.com/nikitavoloboev/zig)
+- [mbt](https://github.com/nikitavoloboev/mbt)
 - [mojo](https://github.com/nikitavoloboev/mojo)
 - [swift](https://github.com/nikitavoloboev/swift)
-- [moonbit](https://github.com/nikitavoloboev/moonbit)
 - [rust](https://github.com/nikitavoloboev/rust)
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
+- [zig](https://github.com/nikitavoloboev/zig)
 
 ## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [tools](https://github.com/nikitavoloboev/tools) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
