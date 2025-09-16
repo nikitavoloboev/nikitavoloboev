@@ -5,20 +5,21 @@
 Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
-  - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Ask questions, orchestrate agents, together.
-  - [gpton.co](https://gpton.co) - P2P game platform & messenger
+  - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents, together.
   - [gen.new](https://gen.new) - Generate & store anything
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
-  - [solbond.co](https://solbond.co) - Get paid for digital content. Sell ownership.
+  - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
+  - [solbond.co](https://solbond.co) - Get paid for digital content. Sell ownership. Manage finances.
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
-  - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
+  - [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic
+  - [friendik.co](https://friendik.dev) - Your friend
   - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
-  - [anysynth.co](https://anysynth.co) - Building playful software for ourselves and others
-- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+  - [anysynth.co](https://anysynth.co) - Toolkit to build complex & playful apps (+ agency for custom perfect solutions)
+- [myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share your favorite Apps/CLIs/configs
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
-- [py](https://github.com/nikitavoloboev/py)
 - [go](https://github.com/nikitavoloboev/go)
+- [py](https://github.com/nikitavoloboev/py)
 - [mojo](https://github.com/nikitavoloboev/mojo)
 - [swift](https://github.com/nikitavoloboev/swift)
 - [rust](https://github.com/nikitavoloboev/rust)
@@ -27,7 +28,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [zig](https://github.com/nikitavoloboev/zig)
 - [moonbit](https://github.com/nikitavoloboev/mbt)
 
-## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [tools](https://github.com/nikitavoloboev/tools) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
+## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
