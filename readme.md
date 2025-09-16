@@ -15,7 +15,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [friendik.co](https://friendik.dev) - Your friend
   - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
   - [anysynth.co](https://anysynth.co) - Toolkit to build complex & playful apps (+ agency for custom perfect solutions)
-- [myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share your favorite Apps/CLIs/configs
+- [myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
