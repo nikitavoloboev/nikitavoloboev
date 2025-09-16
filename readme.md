@@ -5,7 +5,7 @@
 Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
 
 - org
-  - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents, together.
+  - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents.
   - [gen.new](https://gen.new) - Generate & store anything
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
   - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
