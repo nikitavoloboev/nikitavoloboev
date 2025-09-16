@@ -26,7 +26,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 - [zig](https://github.com/nikitavoloboev/zig)
-- [moonbit](https://github.com/nikitavoloboev/mbt)
+- [moonbit](https://github.com/nikitavoloboev/moonbit)
 
 ## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
 
