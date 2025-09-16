@@ -9,7 +9,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [gen.new](https://gen.new) - Generate & store anything
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
   - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
-  - [solbond.co](https://solbond.co) - Get paid for digital content. Sell ownership. Manage finances.
+  - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
   - [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic
   - [friendik.co](https://friendik.dev) - Your friend
