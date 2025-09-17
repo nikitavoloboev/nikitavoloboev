@@ -9,12 +9,12 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [gen.new](https://gen.new) - Generate & store anything
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
   - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
-  - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
+  <!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
   - [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic
   - [friendik.co](https://friendik.dev) - Your friend
   - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
-  - [anysynth.co](https://anysynth.co) - Toolkit to build complex apps (+ agency to build delightful software)
+  - [anysynth.co](https://anysynth.co) - Toolkit to build complex apps (+ agency to build delightful software) -->
 - [myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/Configs/..
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [ts](https://github.com/nikitavoloboev/ts)
