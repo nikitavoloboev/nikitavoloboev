@@ -1,4 +1,7 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team.
+<!-- TODO: bring back when AS site is updated -->
+<!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team. -->
+
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
 💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
