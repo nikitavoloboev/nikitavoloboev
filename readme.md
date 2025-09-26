@@ -13,6 +13,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
 - [myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [mbt](https://github.com/nikitavoloboev/mbt)
