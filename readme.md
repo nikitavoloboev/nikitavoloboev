@@ -19,8 +19,8 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
-- [mojo](https://github.com/nikitavoloboev/mojo)
 - [swift](https://github.com/nikitavoloboev/swift)
+- [mojo](https://github.com/nikitavoloboev/mojo)
 - [rust](https://github.com/nikitavoloboev/rust)
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
