@@ -16,15 +16,16 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use
 - cli
   - [flow](https://github.com/nikitavoloboev/flow) - CLI to do things fast
+  - [flow-ts](https://github.com/nikitavoloboev/flow-ts)
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
-- [swift](https://github.com/nikitavoloboev/swift)
+- [mbt](https://github.com/nikitavoloboev/mbt)
 - [mojo](https://github.com/nikitavoloboev/mojo)
+- [swift](https://github.com/nikitavoloboev/swift)
 - [rust](https://github.com/nikitavoloboev/rust)
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [mbt](https://github.com/nikitavoloboev/mbt)
 - [zig](https://github.com/nikitavoloboev/zig)
 
 <!-- - [gleam](https://github.com/nikitavoloboev/gleam)
@@ -49,16 +50,15 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
 <!-- /ui -->
 
 <!-- TODO: add things as they are ready -->
-
-<!-- - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet -->
-
-<!-- - [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic -->
-
-<!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
+<!--
+- [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
+- [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
+- [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic
 - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
 - [friendik.co](https://friendik.dev) - Your friend
 - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
-- [anysynth.co](https://anysynth.co) - Toolkit to build complex apps (+ agency to build delightful software) -->
+- [anysynth.co](https://anysynth.co) - Toolkit to build complex apps (+ agency to build delightful software)
+-->
 
 <!-- TODO: add [3d] to entries for time before last commit of repo, automate daily snapshot -->
 <!-- TODO: do it as part of website, richer -->
