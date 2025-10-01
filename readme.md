@@ -1,6 +1,3 @@
-<!-- TODO: bring back when AS site is updated -->
-<!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team. -->
-
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
 💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
@@ -26,11 +23,9 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [zig](https://github.com/nikitavoloboev/zig)
 - [mbt](https://github.com/nikitavoloboev/mbt)
 
-## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [try](https://github.com/nikitavoloboev/try) [issues](https://github.com/nikitavoloboev/issues) [past](https://github.com/nikitavoloboev/past)
+## [test](https://github.com/nikitavoloboev/test)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
-
-All useful events, including GitHub activity is streamed to a [Telegram channel](https://t.me/nikivi_log).
 
 <details><summary>🐱</summary>
   <br/>
@@ -38,6 +33,24 @@ All useful events, including GitHub activity is streamed to a [Telegram channel]
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg"></img>
   </a>
 </details>
+
+<!-- TODO: get working -->
+<!-- TODO: bring back when AS site is updated -->
+<!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team. -->
+
+<!-- this was right before <details> -->
+<!-- All useful events, including GitHub activity is streamed to a [Telegram channel](https://t.me/nikivi_log). -->
+
+<!-- TODO: no use to share it for now, mby in future. was in ## after [test] .. before -->
+<!-- [new](https://github.com/nikitavoloboev/new) -->
+<!-- [past](https://github.com/nikitavoloboev/past) -->
+<!-- [issues](https://github.com/nikitavoloboev/issues) -->
+<!-- [try](https://github.com/nikitavoloboev/try) -->
+<!-- [data](https://github.com/nikitavoloboev/data) -->
+<!-- [.flox](https://github.com/nikitavoloboev/.flox) -->
+<!-- [media](https://github.com/nikitavoloboev/media) -->
+<!-- [games](https://github.com/nikitavoloboev/games) -->
+<!-- [other](https://github.com/nikitavoloboev/other) -->
 
 <!-- anysynth/ -> anysynth.co -->
 <!-- /anysynth -->
