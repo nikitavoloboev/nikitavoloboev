@@ -14,9 +14,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use
-- cli
-  - [flow](https://github.com/nikitavoloboev/flow) - CLI to do things fast
-  - [flow-ts](https://github.com/nikitavoloboev/flow-ts)
+- [flow](https://github.com/nikitavoloboev/flow) - CLI to do things fast
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
