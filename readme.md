@@ -25,7 +25,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 
 ## [test](https://github.com/nikitavoloboev/test)
 
-[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) is appreciated & will get faster response times on issues & [my Discord server](https://discord.com/invite/TVafwaD23d). 🖤
+🖤 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) is appreciated and will get faster responses [on Discord](https://discord.com/invite/TVafwaD23d)/GitHub.
 
 <details><summary>🐱</summary>
   <br/>
