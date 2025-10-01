@@ -26,7 +26,7 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [zig](https://github.com/nikitavoloboev/zig)
 - [mbt](https://github.com/nikitavoloboev/mbt)
 
-## [new](https://github.com/nikitavoloboev/new) [test](https://github.com/nikitavoloboev/test) [data](https://github.com/nikitavoloboev/data) [try](https://github.com/nikitavoloboev/try) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [past](https://github.com/nikitavoloboev/past)
+## [test](https://github.com/nikitavoloboev/test) [new](https://github.com/nikitavoloboev/new) [data](https://github.com/nikitavoloboev/data) [.flox](https://github.com/nikitavoloboev/.flox) [media](https://github.com/nikitavoloboev/media) [games](https://github.com/nikitavoloboev/games) [other](https://github.com/nikitavoloboev/other) [try](https://github.com/nikitavoloboev/try) [issues](https://github.com/nikitavoloboev/issues) [past](https://github.com/nikitavoloboev/past)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) has perks like [Discord server](https://discord.com/invite/TVafwaD23d) priority help. Thank you. 🖤
 
