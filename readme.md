@@ -1,6 +1,6 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
-💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://www.youtube.com/nikitavoloboev).
+💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://www.youtube.com/nikitavoloboev).
 
 - org
   - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents.
