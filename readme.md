@@ -2,8 +2,6 @@
 
 💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & [videos](https://nikiv.dev/videos) on [YouTube](https://www.youtube.com/@nikitavoloboev).
 
-Below is all code as it exists in [my file system](https://nikiv.dev/my-file-system).
-
 - org
   - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents.
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
@@ -15,13 +13,9 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 - [ts](https://github.com/nikitavoloboev/ts)
 - [go](https://github.com/nikitavoloboev/go)
 - [py](https://github.com/nikitavoloboev/py)
-- [mojo](https://github.com/nikitavoloboev/mojo)
-- [swift](https://github.com/nikitavoloboev/swift)
 - [rust](https://github.com/nikitavoloboev/rust)
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
-- [zig](https://github.com/nikitavoloboev/zig)
-- [mbt](https://github.com/nikitavoloboev/mbt)
 
 ## [test](https://github.com/nikitavoloboev/test)
 
@@ -35,6 +29,10 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 </details>
 
 <!-- TODO: get working -->
+<!-- - [swift](https://github.com/nikitavoloboev/swift) -->
+<!-- - [mojo](https://github.com/nikitavoloboev/mojo) -->
+<!-- - [zig](https://github.com/nikitavoloboev/zig) -->
+<!-- - [mbt](https://github.com/nikitavoloboev/mbt) -->
 <!-- TODO: bring back when AS site is updated -->
 <!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team. -->
 
@@ -61,7 +59,6 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 <!--
 - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
 - [gpton.co](https://gpton.co) - P2P game platform, messenger & crypto wallet
-- [gitedit.dev](https://gitedit.dev) - GitHub but fast and agentic
 - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
 - [friendik.co](https://friendik.dev) - Your friend
 - [gridchess.com](https://gridchess.com) - Review chess games with a grid to learn fast
@@ -76,10 +73,8 @@ Below is all code as it exists in [my file system](https://nikiv.dev/my-file-sys
 <!-- TODO: was in org/ (not active projects yet) -->
 <!--
     [solbond.co](https://solbond.co) - Store, share & sell digital things.
-  - [gen.new](https://gen.new) - Generate code, images, video. Personalized to you.
   - [kuskus.app](https://kuskus.app) - Share foods/places/photos. Manage all habits, health, fitness in one app.
   - [garden.co](https://github.com/garden-co) - Making writing software more magical and fun
-  - [myworkflow.co](https://github.com/myworkflow-co/myworkflow) - Track what you use and share it
   - [eventsline.co](https://github.com/eventsline/eventsline) - Make lines with events on it. Use it for anything.
   - [gridchess.com](https://github.com/gridchess/gridchess) - Review chess games with a grid to learn fast
   - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
