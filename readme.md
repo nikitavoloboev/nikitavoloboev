@@ -17,7 +17,7 @@
   - crates
     - [log_macro](https://github.com/nikitavoloboev/log_macro) - Macro to print variable(s) with values nicely
 
-## [test](https://github.com/nikitavoloboev/test)
+### [test](https://github.com/nikitavoloboev/test)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
