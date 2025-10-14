@@ -1,36 +1,36 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
-💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikitavoloboev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikitavoloboev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://www.youtube.com/nikitavoloboev).
+💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://youtube.com/@nikivdev).
 
 - org
   - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents.
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
-- [myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
-- [config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use
-- [nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
-- [flow](https://github.com/nikitavoloboev/flow) - Do things fast
-- [ts](https://github.com/nikitavoloboev/ts)
-- [go](https://github.com/nikitavoloboev/go)
-- [py](https://github.com/nikitavoloboev/py)
-- [rust](https://github.com/nikitavoloboev/rust)
+- [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [config](https://github.com/nikivdev/config) - Apps/CLIs/configs I use
+- [nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
+- [flow](https://github.com/nikivdev/flow) - Do things fast
+- [ts](https://github.com/nikivdev/ts)
+- [go](https://github.com/nikivdev/go)
+- [py](https://github.com/nikivdev/py)
+- [rust](https://github.com/nikivdev/rust)
 
-### [test](https://github.com/nikitavoloboev/test)
+### [test](https://github.com/nikivdev/test)
 
-[Sponsoring my work on GitHub](https://github.com/sponsors/nikitavoloboev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
+[Sponsoring my work on GitHub](https://github.com/sponsors/nikivdev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
 <details><summary>🐱</summary>
   <br/>
   <a href="https://nikiv.dev">
-    <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikitavoloboev/nikitavoloboev/main/cat.jpg"></img>
+    <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikivdev/nikivdev/main/cat.jpg"></img>
   </a>
 </details>
 
 <!-- TODO: get working -->
-<!-- - [swift](https://github.com/nikitavoloboev/swift) -->
-<!-- - [mojo](https://github.com/nikitavoloboev/mojo) -->
-<!-- - [zig](https://github.com/nikitavoloboev/zig) -->
-<!-- - [mbt](https://github.com/nikitavoloboev/mbt) -->
+<!-- - [swift](https://github.com/nikivdev/swift) -->
+<!-- - [mojo](https://github.com/nikivdev/mojo) -->
+<!-- - [zig](https://github.com/nikivdev/zig) -->
+<!-- - [mbt](https://github.com/nikivdev/mbt) -->
 <!-- TODO: bring back when AS site is updated -->
 <!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [code](https://nikiv.dev/code) [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow) as part of [AnySynth](https://anysynth.co) team. -->
 
@@ -38,15 +38,15 @@
 <!-- All useful events, including GitHub activity is streamed to a [Telegram channel](https://t.me/nikivi_log). -->
 
 <!-- TODO: no use to share it for now, mby in future. was in ## after [test] .. before -->
-<!-- [new](https://github.com/nikitavoloboev/new) -->
-<!-- [past](https://github.com/nikitavoloboev/past) -->
-<!-- [issues](https://github.com/nikitavoloboev/issues) -->
-<!-- [try](https://github.com/nikitavoloboev/try) -->
-<!-- [data](https://github.com/nikitavoloboev/data) -->
-<!-- [.flox](https://github.com/nikitavoloboev/.flox) -->
-<!-- [media](https://github.com/nikitavoloboev/media) -->
-<!-- [games](https://github.com/nikitavoloboev/games) -->
-<!-- [other](https://github.com/nikitavoloboev/other) -->
+<!-- [new](https://github.com/nikivdev/new) -->
+<!-- [past](https://github.com/nikivdev/past) -->
+<!-- [issues](https://github.com/nikivdev/issues) -->
+<!-- [try](https://github.com/nikivdev/try) -->
+<!-- [data](https://github.com/nikivdev/data) -->
+<!-- [.flox](https://github.com/nikivdev/.flox) -->
+<!-- [media](https://github.com/nikivdev/media) -->
+<!-- [games](https://github.com/nikivdev/games) -->
+<!-- [other](https://github.com/nikivdev/other) -->
 
 <!-- anysynth/ -> anysynth.co -->
 <!-- /anysynth -->
@@ -78,8 +78,8 @@
   - [gitedit.dev](https://gitedit.dev) - View, search or edit over git data with AI
 -->
 
-<!-- - [gleam](https://github.com/nikitavoloboev/gleam)
-- [elixir](https://github.com/nikitavoloboev/elixir) -->
+<!-- - [gleam](https://github.com/nikivdev/gleam)
+- [elixir](https://github.com/nikivdev/elixir) -->
 
 <!-- TODO: in below, code linked to https://nikiv.dev/code but its incomplete now -->
 <!-- code should show live activity of commits -->
