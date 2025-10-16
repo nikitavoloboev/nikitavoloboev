@@ -9,7 +9,6 @@
 - [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [config](https://github.com/nikivdev/config) - Apps/CLIs/configs I use
 - [nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
-- [flow](https://github.com/nikivdev/flow) - Do things fast
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
