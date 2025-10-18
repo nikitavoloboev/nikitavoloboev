@@ -1,6 +1,6 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & code [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
-💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev)/[TG](https://t.me/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://youtube.com/@nikivdev).
+💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://youtube.com/@nikivdev).
 
 - org
   - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
