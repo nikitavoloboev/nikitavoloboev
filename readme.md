@@ -3,9 +3,10 @@
 💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev), videos on [YouTube](https://youtube.com/@nikivdev).
 
 - org
-  - [1focus.ai](https://1focus.ai) - App for collaborative context engineering. Chat, ask questions, orchestrate agents.
+  - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
-  - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted), share parts of it to global network of topics with deep AI integration
+  - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
+  - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [config](https://github.com/nikivdev/config) - Apps/CLIs/configs I use
 - [nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
